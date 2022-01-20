@@ -305,7 +305,7 @@ export default function Header() {
               <IconWrapper size={16}>
                 <img
                   src={
-                    'https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0xFa94348467f64D5A457F75F8bc40495D33c65aBB/logo.png'
+                    'https://raw.githubusercontent.com/Previsao/tokens-bbb/master/assets/0xFa94348467f64D5A457F75F8bc40495D33c65aBB/logo.png'
                   }
                 />
               </IconWrapper>

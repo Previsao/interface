@@ -1,16 +1,14 @@
-# Trisolaris Interface
+# Previsao Interface
 
 An open source interface for Trisolaris -- a community-driven decentralized exchange for Aurora and Ethereum assets with fast settlement, low transaction fees, and a democratic distribution -- powered by Aurora.
 
-- Website: [https://www.trisolaris.io/](https://www.trisolaris.io/)
-- Telegram: [TrisolarisLabs](https://t.me/TrisolarisLabs)
-- Discord: [TrisolarisLabs](discord.gg/my6GtSTmmX)
-- Twitter: [@trisolarislabs](https://twitter.com/trisolarislabs)
+- Website: [previsao.verificaDAO.com/](https://www.previsao.verificaDAO.com/).
+- Twitter: [@previsaoclub](https://twitter.com/previsaoclub)
 
 
 ## Accessing the Trisolaris Interface
 
-Visit [https://www.trisolaris.io/](https://www.trisolaris.io/).
+Visit [previsao.verificaDAO.com/](https://www.previsao.verificaDAO.com/).
 
 ## Development
 
