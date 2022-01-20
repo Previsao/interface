@@ -147,10 +147,10 @@ export default function TriPriceModal() {
               <Link href="https://explorer.mainnet.aurora.dev/token/0x2690906609A9AF3bF08B8384CD9A0F97A88A7E9c">
                 Contract
               </Link>
-              <Link href="https://dexscreener.com/aurora/0x2690906609A9AF3bF08B8384CD9A0F97A88A7E9c">DEX Screener</Link>
-              {/* <Link href="https://geckoterminal.com/aurora/pools/0x84b123875f0f36b966d0b6ca14b31121bd9676ad"> */}
+              {/* <Link href="https://dexscreener.com/aurora/0x2690906609A9AF3bF08B8384CD9A0F97A88A7E9c">DEX Screener</Link> */}
+              {/* <Link href="https://geckoterminal.com/aurora/pools/0x84b123875f0f36b966d0b6ca14b31121bd9676ad">
                 Gecko Terminal
-              </Link>
+              </Link> */}
             </AutoRow>
           </ContentWrapper>
         </UpperSection>
