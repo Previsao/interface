@@ -119,21 +119,21 @@ export default function TriPriceModal() {
           <CloseIcon onClick={toggleWalletModal}>
             <CloseColor />
           </CloseIcon>
-          <HeaderRow color="blue">Trisolaris Token</HeaderRow>
+          <HeaderRow color="blue">Previsao Token</HeaderRow>
           <ContentWrapper mobile={isMobile}>
             <AutoRow>
               <AutoColumn>
                 <IconWrapper size={32}>
                   <img
                     src={
-                      'https://github.com/trisolaris-labs/tokens/blob/master/assets/0xFa94348467f64D5A457F75F8bc40495D33c65aBB/logo.png?raw=true'
+                      'https://e7.pngegg.com/pngimages/298/382/png-clipart-emoji-crystal-ball-social-media-sticker-crystal-purple-violet.png'
                     }
                   />
                 </IconWrapper>
               </AutoColumn>
               <AutoColumn style={{ padding: '0 .75em', flex: '1 1 0%' }}>
                 <AutoRow>
-                  <TYPE.largeHeader>TRI</TYPE.largeHeader>
+                  <TYPE.largeHeader>🔮</TYPE.largeHeader>
                 </AutoRow>
               </AutoColumn>
               <AutoColumn>
@@ -144,11 +144,11 @@ export default function TriPriceModal() {
             </AutoRow>
             <CirculatingSupplyMarketCap totalTRI={totalTRI} triPrice={getTriPrice()} />
             <AutoRow align="center" justify="space-around" padding="1rem 0 0 0">
-              <Link href="https://explorer.mainnet.aurora.dev/token/0xFa94348467f64D5A457F75F8bc40495D33c65aBB">
+              <Link href="https://explorer.mainnet.aurora.dev/token/0x2690906609A9AF3bF08B8384CD9A0F97A88A7E9c">
                 Contract
               </Link>
-              <Link href="https://dexscreener.com/aurora/0x84b123875f0f36b966d0b6ca14b31121bd9676ad">DEX Screener</Link>
-              <Link href="https://geckoterminal.com/aurora/pools/0x84b123875f0f36b966d0b6ca14b31121bd9676ad">
+              <Link href="https://dexscreener.com/aurora/0x2690906609A9AF3bF08B8384CD9A0F97A88A7E9c">DEX Screener</Link>
+              {/* <Link href="https://geckoterminal.com/aurora/pools/0x84b123875f0f36b966d0b6ca14b31121bd9676ad"> */}
                 Gecko Terminal
               </Link>
             </AutoRow>
