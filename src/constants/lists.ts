@@ -12,7 +12,7 @@ export const POLYGON_BRIDGE_LIST =
 // export const AURORA_BRIDGE_LIST = 
 //   'https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/assets/aurora.tokenlist.json'
 
-export const AURORA_BRIDGE_LIST = 'https://gist.githubusercontent.com/0xchain1/25ac542539b392891656a79bcff5bb92/raw/e4baed65ce28a802475b5fd422f402996a281270/aurora_token_list'
+export const AURORA_BRIDGE_LIST = 'https://raw.githubusercontent.com/Previsao/tokens-bbb/master/lists/1313161554/list.json'
 
 const DEFAULT_LISTS: Map<ChainId, string> = new Map([
   [ChainId.AVALANCHE, AVAX_BRIDGE_LIST],
